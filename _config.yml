@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrastPermalink" # "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-US"
-title                    : "tvewai"
+title                    : "개발일지"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "tvewai"
 description              : "An amazing website."
 url                      : "https://tvewai.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
